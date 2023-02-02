@@ -1,0 +1,394 @@
+id,result,element_1,element_2,level
+1,1-UP,Life,Mushroom,5
+2,Air,,,0
+3,Airplane,Metal,Bird,5
+4,Albert Einstein,Scientist,Energy,13
+5,Alcohol,Fire,Water,1
+6,Alcoholic,Man,Alcohol,7
+7,Algae,Life,Water,3
+8,Alien,Star,Life,14
+9,Aluminum,Airplane,Metal,6
+10,Ambulance,Hospital,Car,12
+11,Aquarium,Glass,Fish,6
+12,Arable,Earth,Tool,8
+13,Arms,Metal,Tool,8
+14,Ash,Dust,Dust,2
+15,Ash Tray,Ash,Glass,5
+16,Assassin,Man,Poisoned Weapons,10
+17,Australia,Kangaroo,Country,13
+18,Avian Flu,Flu,Bird/Chicken,5
+19,Baby,Sex,Life,9
+20,Bacon,Fire,Pig,11
+21,Bacteria,Life,Swamp,3
+22,Bar,Brick House,Beer,11
+23,Barbecue,Fire,Meat,11
+24,Bat,Bird,Vampire,12
+25,Batman,Bat,Man,13
+26,Beach,Water,Sand,4
+27,Bear,Beast,Forest,9
+28,Beast,Earth,Lizard,8
+29,Beaver,Dam,Beast,9
+30,Bee,Flower,Beetle,7
+31,Beer,Alcohol,Wheat,10
+32,Beetle,Worm,Earth,6
+33,Beetroot,Sugar,Seed,9
+34,Belarus,Tractor,Country,13
+35,Berry,Grass,Fruit,7
+36,Bicycle,Wheel,Wheel,10
+37,Bird,Air,Egg,4
+38,Bitumen,Kerogen,Pressure,7
+39,Blood,Beast,Hunter,10
+40,Boat,Water,Wood,9
+41,Boiler,Metal,Steam,4
+42,Book,Paper,Man,10
+43,Borscht,Beetroot,Fire,10
+44,Bow,Robin Hood,Arms,13
+45,Bread,Dough,Fire,12
+46,Brick,Clay,Fire,5
+47,Brick House,Brick,Concrete,9
+48,Butterfly,Air,Worm,6
+49,C3PO,Gold,Robot,16
+50,Cactus,Desert,Tree,6
+51,Camel,Beast,Desert,9
+52,Cancer,Man,Tobacco,9
+53,Car,Cart,Combustion Engine,11
+54,Caramel,Sugar,Fire,9
+55,Carbon Dioxide,Oxygen,Man,7
+56,Carmine,Cochineal,Fire,8
+57,Cart,Wheel,Wood,10
+58,Cat,Yarn,Beast,13
+59,Cat-dog,Cat,Dog,18
+60,Caviar,Fish,Fish,6
+61,Cement,Clay,Limestone,7
+62,Cemetery,Grave,Grave,9
+63,Ceramics,Man,Clay,7
+64,Champagne,Wine,Soda Water,11
+65,Chariot,Warrior,Cart,11
+66,Cheese,Quark,Fire,14
+67,Chicken,Egg,Life,4
+68,China,Country,Dragon,13
+69,China,Country,Silk,13
+70,Chocolate,Cocoa,Sugar,15
+71,Christmas Tree,Tree,Light-bulb,6
+72,Cigarettes,Paper,Tobacco,10
+73,City,Skyscraper,Skyscraper,11
+74,Clay,Sand,Swamp,4
+75,Clock,Time,Tool,8
+76,Cloth,Wool,Tool,11
+77,Clothing,Man,Cloth,12
+78,Cloud,Air,Steam,2
+79,Coal,Fire,Tree,6
+80,Coca-Cola,Soda Water,Carmine,9
+81,Cochineal,Cactus,Beetle,7
+82,Cocoa,Seed,Mexico,14
+83,Coffin,Corpse,Wood,9
+84,Coin,Money,Metal,17
+85,Combustion Engine,Steam Engine,Gasoline,10
+86,Concrete,Cement,Water,8
+87,Continent,Country,Country,13
+88,Copper,Silver,Gold,17
+89,Corpse,Fire,Man,7
+90,Country,City,City,12
+91,Crop Circles,UFO,Arable,16
+92,Dam,Brick,Water,6
+93,Desert,Sand,Sand,4
+94,Diamond,Uncut Diamond,Tool,8
+95,Diet,Man,Yogurt,12
+96,Dilemma,Chicken,Egg,5
+97,Dinosaur,Earth,Egg,4
+98,Doctor,Hospital,Scientist,13
+99,Dog,Wolf,Man,17
+100,Dough,Flour,Water,11
+101,Dr. Zoidberg,Doctor,Alien,15
+102,Dragon,Fire,Pterodactyl,6
+103,Dust,Air,Earth,1
+104,E-Book,Microchip,Book,11
+105,Earth,,,0
+106,Ectoplasm,Ghost,Energy,4
+107,Egg,Life,Stone,3
+108,Egypt,Country,Cat,14
+109,Electric Eel,Snake,Electricity,7
+110,Electric Ray,Fish,Electricity,6
+111,Electricity,Energy,Metal,4
+112,Elephant,Whale,Earth,10
+113,Elephant,Whale,Beast,10
+114,Energy,Air,Fire,1
+115,Ent,Tree,Life,6
+116,Explosion,Fire,Gunpowder,3
+117,Faberge Egg,Egg,Diamond,9
+118,Farmer,Man,Seed,7
+119,Fat,Man,Pig,11
+120,Feather,Bird,Hunter,10
+121,Fern,Moss,Swamp,5
+122,Finland,Sauna,Country,13
+123,Fire,,,0
+124,Fire Elemental,Fire,Life,3
+125,Firearms,Arms,Gunpowder,9
+126,Firefighter,Hero,Fire,12
+127,Firefly,Light,Beetle,7
+128,Fish,Bacteria,Plankton,5
+129,Fisherman,Hunter,Fish,10
+130,Flour,Wheat,Stone/Tool,10
+131,Flower,Water,Seed,5
+132,Flu,Air,Bacteria,4
+133,Fondue,Cheese,Fire,15
+134,Forest,Grove,Grove,7
+135,Fossil,Dinosaur,Earth,5
+136,France,Champagne,Country,13
+137,Frankenstein,Corpse,Electricity,8
+138,Fried Chicken,Fire,Chicken,5
+139,Frog,Lizard,Swamp,8
+140,Fruit,Tree,Flower,6
+141,Fugu,Fish,Poison,9
+142,Gasoline,Petroleum,Pressure,9
+143,Genie,Lamp,Ghost,6
+144,Germany,WV Beetle,Country,13
+145,Geyser,Steam,Earth,2
+146,Ghost,Ash,Life,3
+147,Ghost-busters,Ghost,Hunter,10
+148,Glass,Fire,Sand,4
+149,Gold,Philosopher’s Stone,Metal,15
+150,Golem,Clay,Life,5
+151,Grape,Earth,Wood,9
+152,Grass,Earth,Moss,5
+153,Grave,Earth,Corpse,8
+154,Grove,Tree,Tree,6
+155,Gunpowder,Dust,Fire,2
+156,Hen Coop,Chicken,Hut,8
+157,Hero,Dragon,Warrior,11
+158,Honey,Bee,Flower,8
+159,Hospital,Sick,Brick House,10
+160,Hot Chocolate,Fire,Chocolate,16
+161,Hourglass,Sand,Glass,5
+162,House MD,Man,Vicodin,15
+163,Hunter,Arms,Man,9
+164,Hut,Man,Stone,7
+165,Hydrogen,Water,Electricity,5
+166,Ice,Water,Glass,5
+167,Iceland,Ice,Country,13
+168,Idea,Man,Light Bulb,7
+169,India,Kama Sutra,Country,13
+170,Iodine,Algae,Fire,4
+171,iPhone,Fruit,Phone,20
+172,Island,Volcano,Sea,3
+173,Italy,Pizza,Country,16
+174,Japan,Sushi,Country,13
+175,Jedi,Hero,Light Saber,12
+176,Juice,Fruit,Pressure,7
+177,Kama Sutra,Book,Sex,11
+178,Kangaroo,Frog,Beast,9
+179,Kerogen,Fossil,Pressure,6
+180,Kilt,Scotland,Clothing,14
+181,Knife,Meat,Tool,11
+182,Lamp,Fire,Glass,5
+183,Lance Armstrong,Cancer,Bicycle,11
+184,Lava,Earth,Fire,1
+185,Lava Golem,Life,Lava,3
+186,Lava Lamp,Lava,Lamp,6
+187,Lawnmower,Grass,Tool,8
+188,Leech,Blood,Worm,11
+189,Library,Book,Book,11
+190,Lichen,Mushroom,Algae,5
+191,Life,Energy,Swamp,2
+192,Light,Electricity,Light Bulb,6
+193,Light Bulb,Electricity,Glass,5
+194,Light Saber,Arms,Light,9
+195,Lighthouse,Skyscraper,Light,11
+196,Lightning Rod,Thunderstorm,Metal,6
+197,Lime,Fire,Limestone,7
+198,Limestone,Stone,Shells,6
+199,Livestock,Beast,Man,9
+200,Lizard,Snake,Worm,7
+201,Lobster,Scorpion,Water,8
+202,Locomotive,Cart,Steam Engine,11
+203,Man,Golem,Life,6
+204,Manure,Livestock,Grass,10
+205,Mario,1Up,Man,8
+206,McDonald’s,Coca-Cola,Sandwich,14
+207,Meat,Beast,Hunter,10
+208,Mentos,Coca-Cola,Geyser,10
+209,Mermaid,Woman,Fish,8
+210,Metal,Fire,Stone,3
+211,Metal Golem,Metal,Life,4
+212,Mexico,Tequila,Country,13
+213,Microchip,Transistor,Transistor,6
+214,Milk,Livestock,Grass,10
+215,Mirror,Aluminum,Glass,7
+216,Mite,Life,Dust,3
+217,Mold,Mushroom,Mud,5
+218,Molotov Cocktail,Fire,Alcohol,2
+219,Money,Gold,Paper,16
+220,Moon,Cheese,Sky,15
+221,Moss,Swamp,Algae,4
+222,Motorboat,Boat,Combustion Engine,11
+223,Motorcycle,Combustion Engine,Bicycle,11
+224,Mouse,Cheese,Beast,15
+225,Mud,Dust,Water,2
+226,Mummy,Corpse,Paper,10
+227,Museum,Brick House,Fossil,10
+228,Mushroom,Earth,Algae,4
+229,Music,Sound,Idea,8
+230,Obesity,Man,McDonald’s,15
+231,Old Man,Man,Time,7
+232,Omelet,Egg,Fire,4
+233,Oxygen,Water,Electricity,5
+234,Oxyhydrogen,Oxygen,Hydrogen,6
+235,Ozone,Oxygen,Electricity,6
+236,Panda,Tree,Beast,9
+237,Paper,Wood,Pressure,9
+238,Pearl,Sand,Shells,6
+239,Peat,Swamp,Pressure,2
+240,Penguin,Ice,Bird,6
+241,Penicillin,Mold,Scientist,13
+242,Perfume,Flower,Alcohol,6
+243,Petri Dish,Glass,Bacteria,5
+244,Petroleum,Bitumen,Pressure,8
+245,Philosopher’s Stone,Philosophy,Stone,14
+246,Philosophy,Dilemma,Scientist,13
+247,Phoenix,Bird,Fire,5
+248,Phone,Sound,Wire,19
+249,Pie,Berry,Dough,12
+250,Pig,Livestock,Mud,10
+251,Piggy Bank,Ceramics,Coin,18
+252,Pillow,Feather,Cloth,12
+253,Pinocchio,Wood,Life,9
+254,Pizza,Cheese,Dough,15
+255,Planet,Continent,Continent,14
+256,Plankton,Bacteria,Water,4
+257,Plesiosaurus,Dinosaur,Water,5
+258,Poison,Snake,Tool,8
+259,Poisoned Weapons,Arms,Poison,9
+260,Pressure,Earth,Earth,1
+261,Prisoner,Assassin,Time,11
+262,Pterodactyl,Air,Dinosaur,5
+263,Quark,Soured Milk,Fire,13
+264,Quetzalcoatl,Snake,Bird,7
+265,R2D2,Robot,Star-wars,15
+266,Rain,Water,Cloud,3
+267,Rainbow,Steam,Light,7
+268,Reed,Grass,Swamp,6
+269,Robin Hood,Forest,Hero,12
+270,Robot,Metal Golem,Electricity,5
+271,Romania,Transylvania,Country,14
+272,Ruby,Blood,Diamond,11
+273,Russia,Vodka,Country,13
+274,Rust,Water,Metal,4
+275,Sailboat,Boat,Cloth,12
+276,Sailing Ship,Cloth,Wooden Ship,12
+277,Sailor,Boat,Man,10
+278,Salamander,Fire,Lizard,8
+279,Salo,Man,Pig,11
+280,Salt,Sea,Fire,2
+281,Saltpeter,Limestone,Manure,11
+282,Sand,Stone,Water,3
+283,Sandstorm,Storm,Sand,4
+284,Sandwich,Meat,Bread,13
+285,Santa Claus,Old Man,Christmas Tree,8
+286,Saudi Arabia,Petroleum,Country,13
+287,Sauna,Steam,Hut,8
+288,Scarab,Beetle,Manure,11
+289,Scientist,Man,Library,12
+290,Scissors,Knife,Knife,12
+291,Scorpion,Beetle,Sand,7
+292,Scotch Whiskey,Alcohol,Peat,3
+293,Scotland,Scotch Whiskey,Country,13
+294,Sea,Water,Water,1
+295,Seed,Life,Sand,4
+296,Sex,Man,Woman,8
+297,Sex in the City,Sex,City,12
+298,Shells,Plankton,Stone,5
+299,Sick,Man,Flu,7
+300,Silicon,Pressure,Sand,4
+301,Silk,Cloth,Worm,12
+302,Silver,Moon,Metal,16
+303,Sith,Jedi,Assassin,13
+304,Sky,Air,Cloud,3
+305,Skyscraper,Brick House,Glass,10
+306,Smoke,Fire,Gunpowder,3
+307,Smoke,Fire,Tobacco,7
+308,Snail,Shells,Worm,6
+309,Snake,Swamp,Worm,6
+310,Sniper,Assassin,Firearms,11
+311,Soap,Ash,Fat,12
+312,Soda Water,Carbon Dioxide,Water,8
+313,Soldier,Firearms,Man,10
+314,Sound,Metal,Wind,4
+315,Soured Milk,Milk,Yogurt,12
+316,Spinning Wheel,Wheel,Wool,11
+317,Stake,Wood,Knife,12
+318,Star,Sun,Scientist,13
+319,Star-wars,Jedi,Sith,14
+320,Statue,Stone,Tool,8
+321,Statue of Liberty,USA,Statue,16
+322,Steam,Air,Water,1
+323,Steam Engine,Boiler,Coal,7
+324,Steamer,Steam Engine,Wooden Ship,11
+325,Stone,Air,Lava,2
+326,Storm,Air,Energy,2
+327,Sugar,Lime,Reed,8
+328,Sulfur,Bacteria,Swamp,4
+329,Sun,Sky,Chariot,12
+330,Sunflower,Sun,Flower,13
+331,Sushi,Fish,Algae,6
+332,Swamp,Earth,Water,1
+333,Sweater,Yarn,Tool,13
+334,Swine Flu,Pig,Flu,11
+335,Swiss Army Knife,Switzerland,Knife,14
+336,Switzerland,Clock,Country,13
+337,Team,Beast,Cart,11
+338,Tequila,Alcohol,Worm,6
+339,The Beetles,Beetle,Beetle,7
+340,Thread,Spinning Wheel,Yarn,13
+341,Thunderbird,Bird,Storm,5
+342,Thunderstorm,Storm,Electricity,5
+343,Time,Life,Hourglass,6
+344,Toast,Fire,Bread,13
+345,Tobacco,Fire,Grass,6
+346,Tool,Man,Metal,7
+347,Totoro,Forest,Ghost,8
+348,Tractor,Lawnmower,Arable,9
+349,Transformers,Life,Car,12
+350,Transistor,Silicon,Metal,5
+351,Transylvania,Vampire,Country,13
+352,Tree,Earth,Seed,5
+353,Turtle,Egg,Sand,4
+354,Twilight Saga,Vampire,Werewolf,13
+355,Typhoon,Water,Storm,3
+356,UFO,Airplane,Alien,15
+357,Ukraine,Salo,Country,13
+358,Uncut Diamond,Coal,Pressure,7
+359,Undead,Corpse,Zombie,9
+360,United Kingdom,The Beetles,Country,13
+361,USA,McDonald’s,Country,15
+362,Vampire,Blood,Man,11
+363,Venice,City,Water,12
+364,Venus,Woman,Planet,15
+365,Vicodin,Sick,Doctor,14
+366,Vinegar,Alcohol,Oxygen,6
+367,Vodka,Alcohol,Water,2
+368,Volcano,Lava,Pressure,2
+369,Vulture,Corpse,Bird,8
+370,VW Beetle,Car,Beetle,12
+371,Warrior,Arms,Hunter,10
+372,Water,,,0
+373,Weevil,Flour,Beetle,11
+374,Werewolf,Beast,Vampire,12
+375,Whale,Beast,Water,9
+376,Wheat,Arable,Seed,9
+377,Wheel,Wood,Tool,9
+378,Whey,Soured Milk,Fire,13
+379,Wind,Air,Air,1
+380,Wine,Grape,Alcohol,10
+381,Wire,Copper,Thread,18
+382,Wolf,Werewolf,Moon,16
+383,Woman,Perfume,Flower,7
+384,Wood,Tree,Tool,8
+385,Wooden Ship,Boat,Wood,10
+386,Wool,Beast,Hunter,10
+387,Worm,Earth,Plankton,5
+388,Yarn,Spinning Wheel,Wool,12
+389,Yoda,Jedi,Swamp,13
+390,Yogurt,Bacteria,Milk,11
+391,Yoshi,1-Up,Egg,6
+392,Zombie,Corpse,Life,8
+393,Zoo,Beast,Museum,11
